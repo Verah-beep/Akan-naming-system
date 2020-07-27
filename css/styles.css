@@ -1,9 +1,6 @@
-body{
-    background-image: url("http://www.desktop-backgrounds.com/images/turquoise-shore-preview.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-   }
+body {
+  background-image: url("/Images/Akan2.jpg");
+}
    h1 {
      font-family: 'Gugi', cursive;
      font-weight: bolder;
