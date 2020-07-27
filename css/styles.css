@@ -1,11 +1,12 @@
 body {
   background-image: url("/Images/Akan2.jpg");
+  background-size: cover;
 }
    h1 {
      font-family: 'Gugi', cursive;
      font-weight: bolder;
      text-align: center;
-     color: blue;
+     color: black;
      margin-bottom: 0px;
      margin-top: 10px;
      padding-bottom: 2px;
